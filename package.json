@@ -1,0 +1,23 @@
+{
+  "name": "markov-node",
+  "version": "1.0.0",
+  "description": "A Markov Text Generator built with Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markov",
+    "text-generator",
+    "nodejs",
+    "nlp"
+  ],
+  "author": "Daniel Shiffman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Programming-from-A-to-Z/Markov-Node"
+  }
+}
