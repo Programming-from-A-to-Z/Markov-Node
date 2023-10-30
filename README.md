@@ -2,7 +2,7 @@
 
 This repository contains a Markov Text Generator implemented in Node.js.
 
-For [Programming from A to Z](https://github.com/Programming-from-A-to-Z/A2Z-F23) at ITP/NYU and based on pAllison Parrish's RWET examples](https://github.com/aparrish/rwet-examples)
+For [Programming from A to Z](https://github.com/Programming-from-A-to-Z/A2Z-F23) at ITP/NYU and based on [Allison Parrish's RWET examples](https://github.com/aparrish/rwet-examples)
 
 ## Contents
 
